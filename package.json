@@ -28,6 +28,6 @@
     "bindings": "~1.2.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "~1.1.2"
+    "ref-array": "github:lxe/ref-array#node-12"
   }
 }
